@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LMJayasundara/nodejs-template/issues"
   },
-  "homepage": "https://github.com/LMJayasundara/nodejs-template#readme"
+  "homepage": "https://github.com/LMJayasundara/nodejs-template#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
